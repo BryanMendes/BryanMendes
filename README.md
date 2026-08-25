@@ -22,7 +22,7 @@
 
 ---
 
-## 👋 Sobre mim
+##  Sobre mim
 
 Sou estudante de **Ciência da Computação** e venho construindo minha trajetória em tecnologia combinando formação acadêmica, experiência profissional e desenvolvimento de aplicações.
 
@@ -36,16 +36,16 @@ Hoje, meu principal interesse está em **desenvolvimento de software e backend**
 
 ---
 
-## 💻 O que estou construindo
+##  O que estou construindo
 
 Atualmente estou direcionando meus estudos para:
 
-* ☕ **Java e Programação Orientada a Objetos**
-* 🌱 **Spring Boot e desenvolvimento Backend**
-* 🗄️ **SQL e PostgreSQL**
-* 🧩 **Arquitetura e organização de software**
-* 🔗 **APIs REST e integração entre sistemas**
-* 🧪 **Boas práticas, testes e qualidade de código**
+*  **Java e Programação Orientada a Objetos**
+*  **Spring Boot e desenvolvimento Backend**
+*  **SQL e PostgreSQL**
+*  **Arquitetura e organização de software**
+*  **APIs REST e integração entre sistemas**
+*  **Boas práticas, testes e qualidade de código**
 
 Meu objetivo é transformar conhecimento teórico em **projetos práticos que demonstrem minha capacidade de resolver problemas e construir software de verdade**.
 
@@ -81,7 +81,7 @@ Meu objetivo é transformar conhecimento teórico em **projetos práticos que de
 
 ---
 
-## 🎓 Formação
+## Formação
 
 **Ciência da Computação**
 Universidade Federal de Uberlândia — UFU
@@ -91,7 +91,7 @@ Formação técnica com foco em programação, desenvolvimento de jogos 2D/3D, b
 
 ---
 
-## 💼 Experiência
+## Experiência
 
 ### Estagiário de TI — SAP & Análise de Negócios
 
@@ -110,7 +110,7 @@ Experiência com desenvolvimento de aplicações web e trabalho em equipe, parti
 
 ---
 
-## 🚀 Em evolução
+## Em evolução
 
 Estou atualmente focado em evoluir de uma formação acadêmica sólida para uma atuação cada vez mais prática em **desenvolvimento de software**, buscando oportunidades onde possa aprender, construir soluções e contribuir com equipes de tecnologia.
 
