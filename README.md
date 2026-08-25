@@ -9,4 +9,4 @@ Atualmente focado em Backend com Java e Spring Boot, enquanto aprofundo meus
 conhecimentos em bancos de dados, arquitetura de software e boas práticas.
 
 > Atualmente transformando curiosidade em projetos, bugs em aprendizado
-e monster em código. 
+e Monster em código. 
