@@ -56,11 +56,13 @@ Meu próximo passo é aprofundar isso em **desenvolvimento de software**, no eco
     └── PostgreSQL · Sistemas Operacionais
     │
     ▼
+2025
 💻 Empresa Júnior ASCII
     │
     └── desenvolvimento de aplicações web
     │
     ▼
+2026
 🏢 Estágio TI / SAP — Uberlândia Refrescos (Coca-Cola)
     │
     ├── suporte · análise de requisitos
