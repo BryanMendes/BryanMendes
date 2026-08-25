@@ -1,117 +1,268 @@
 <div align="center">
 
-# Bryan Mendes
+# BRYAN MENDES
 
-### Estudante de Ciência da Computação • TI & Desenvolvimento de Software
+### SOFTWARE, CURIOSITY & A FEW BUGS ALONG THE WAY.
 
-<p>
-  <em>Transformando problemas reais em soluções através da tecnologia.</em>
-</p>
+**Ciência da Computação · TI · Desenvolvimento de Software**
 
-<a href="https://www.linkedin.com/in/bryan-mendes-monteiro-6173542a8/">
-  <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:SEU_EMAIL)
+
+<br><br>
+
+`JAVA`    `SPRING BOOT`    `POSTGRESQL`    `SQL`
 
 </div>
 
 ---
 
-##  Sobre mim
+## 01 — NOW
 
-Sou estudante de **Ciência da Computação** e venho construindo minha trajetória em tecnologia combinando formação acadêmica, experiência profissional e desenvolvimento de aplicações.
+> **Learning by building.**
 
-Atualmente atuo como **estagiário de TI com foco em SAP e análise de negócios**, trabalhando diretamente com usuários, análise de requisitos, manutenção de acessos e entendimento de necessidades para novas funcionalidades e melhorias em sistemas.
+Atualmente estudo **Ciência da Computação** e trabalho como estagiário de **TI, com atuação em SAP e análise de negócios**.
 
-Antes disso, tive experiência em **empresa júnior**, trabalhando com aplicações web e vivenciando o desenvolvimento de soluções em equipe.
+No dia a dia, lido com problemas reais de sistemas: atendimento de usuários, acessos, transações SAP, análise de requisitos e comunicação entre quem precisa da solução e quem vai construí-la.
 
-Minha formação começou no ensino técnico em **Programação de Jogos Digitais**, onde tive contato com programação, bancos de dados, desenvolvimento de jogos 2D e 3D e ferramentas de criação digital.
+Meu próximo passo é aprofundar essa experiência em **desenvolvimento de software**, especialmente no ecossistema **Java + Spring Boot + bancos de dados**.
 
-Hoje, meu principal interesse está em **desenvolvimento de software e backend**, aprofundando meus conhecimentos em Java, bancos de dados, arquitetura e construção de aplicações.
+```text
+CURRENT QUEST
+────────────────────────────────────────────
 
----
-
-##  O que estou construindo
-
-Atualmente estou direcionando meus estudos para:
-
-*  **Java e Programação Orientada a Objetos**
-*  **Spring Boot e desenvolvimento Backend**
-*  **SQL e PostgreSQL**
-*  **Arquitetura e organização de software**
-*  **APIs REST e integração entre sistemas**
-*  **Boas práticas, testes e qualidade de código**
-
-Meu objetivo é transformar conhecimento teórico em **projetos práticos que demonstrem minha capacidade de resolver problemas e construir software de verdade**.
+→ escrever código melhor
+→ entender sistemas por inteiro
+→ transformar requisitos em soluções
+→ construir projetos que resolvam problemas reais
+```
 
 ---
 
-##  Tecnologias e conhecimentos
+## 02 — THE JOURNEY
 
-### Linguagens
+Minha relação com tecnologia começou antes da faculdade.
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
+```text
+2019+
+    │
+    ├── 🎮 Técnico em Programação de Jogos Digitais
+    │       programação
+    │       bancos de dados
+    │       jogos 2D / 3D
+    │       Blender
+    │
+    ▼
+🎓 Ciência da Computação — UFU
+    │
+    ├── C
+    ├── Java / POO
+    ├── PostgreSQL
+    ├── Sistemas Operacionais
+    └── Engenharia de Software / Fundamentos
+    │
+    ▼
+💻 Empresa Júnior
+    │
+    └── desenvolvimento de aplicações web
+    │
+    ▼
+🏢 TI / SAP
+    │
+    ├── suporte
+    ├── análise de requisitos
+    ├── usuários e acessos
+    └── interface entre negócio e desenvolvimento
+    │
+    ▼
+🚀 NEXT LEVEL
+    │
+    └── desenvolvimento de software
+```
 
-### Banco de Dados
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=databricks&logoColor=white" />
-</p>
-
-### Conceitos
-
-<p>
-  <img src="https://img.shields.io/badge/POO-6A1B9A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Programação%20Procedimental-455A64?style=flat-square" />
-  <img src="https://img.shields.io/badge/Banco%20de%20Dados-2E7D32?style=flat-square" />
-  <img src="https://img.shields.io/badge/Sistemas%20Operacionais-37474F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Análise%20de%20Requisitos-795548?style=flat-square" />
-</p>
-
----
-
-## Formação
-
-**Ciência da Computação**
-Universidade Federal de Uberlândia — UFU
-
-**Técnico em Programação de Jogos Digitais**
-Formação técnica com foco em programação, desenvolvimento de jogos 2D/3D, bancos de dados e criação digital.
-
----
-
-## Experiência
-
-### Estagiário de TI — SAP & Análise de Negócios
-
-Atuação com suporte e evolução de sistemas corporativos, incluindo:
-
-* análise e atendimento de demandas de usuários;
-* administração e liberação de acessos e transações SAP;
-* cadastro e gerenciamento de usuários;
-* levantamento e análise de requisitos;
-* comunicação entre usuários e equipe de desenvolvimento;
-* análise de melhorias e novas funcionalidades.
-
-### Empresa Júnior
-
-Experiência com desenvolvimento de aplicações web e trabalho em equipe, participando do ciclo de construção e entrega de soluções.
+> **Same player. New skill tree.**
 
 ---
 
-## Em evolução
+## 03 — WHAT I DO
 
-Estou atualmente focado em evoluir de uma formação acadêmica sólida para uma atuação cada vez mais prática em **desenvolvimento de software**, buscando oportunidades onde possa aprender, construir soluções e contribuir com equipes de tecnologia.
+### 🧩 I understand the problem
+
+Minha experiência atual me colocou em contato direto com usuários e processos de negócio.
+
+Isso significa aprender a perguntar:
+
+**“O que realmente precisa ser resolvido?”**
+
+antes de pensar:
+
+**“Qual código eu vou escrever?”**
+
+### ⚙️ I build the solution
+
+Meu foco técnico está migrando cada vez mais para desenvolvimento de software.
+
+Hoje estou aprofundando:
+
+**Java → Spring Boot → APIs → SQL → PostgreSQL → arquitetura**
+
+### 🔗 I connect the two sides
+
+Uma das experiências que mais quero levar para minha carreira é justamente essa capacidade de transitar entre:
+
+```text
+PROBLEMA
+   ↓
+REQUISITO
+   ↓
+SOLUÇÃO
+   ↓
+CÓDIGO
+   ↓
+RESULTADO
+```
+
+---
+
+## 04 — SKILL TREE
+
+### 🟢 CURRENT
+
+| Area        | Technologies                           |
+| ----------- | -------------------------------------- |
+| Language    | Java                                   |
+| Backend     | Spring Boot                            |
+| Database    | PostgreSQL / SQL                       |
+| Programming | C / Java / Python                      |
+| Concepts    | OOP · Data Structures · OS · Databases |
+| Other       | Git · SAP · Requirements Analysis      |
+
+### 🔵 EXPLORING
+
+```text
+Spring Boot
+REST APIs
+Testing
+Software Architecture
+Design Patterns
+Clean Code
+Docker
+```
+
+> Not collecting technologies.
+> **Building depth.**
+
+---
+
+## 05 — SIDE QUESTS
+
+Antes de pensar em sistemas corporativos, eu estava fazendo coisas como:
+
+```text
+🎮 criar jogos 2D
+🎮 experimentar jogos 3D
+🧱 modelar no Blender
+🧠 aprender programação através de projetos
+```
+
+Essa parte da minha história ainda influencia a maneira como eu gosto de aprender:
+
+**experimentar → quebrar → entender → tentar novamente**
+
+É provavelmente por isso que projetos práticos sempre fizeram mais sentido para mim do que apenas acumular cursos.
+
+---
+
+## 06 — CURRENT MISSION
+
+### 🎯 Become a better software engineer.
+
+Não estou tentando aprender tudo ao mesmo tempo.
+
+Meu foco atual é construir uma base sólida em:
+
+```text
+JAVA
+   ↓
+SPRING BOOT
+   ↓
+APIs REST
+   ↓
+DATABASES
+   ↓
+SOFTWARE DESIGN
+   ↓
+REAL PROJECTS
+```
+
+A intenção é simples:
+
+> **menos tutorial. mais construção.**
+
+---
+
+## 07 — INVENTORY
+
+<details>
+<summary><strong>🎒 Technologies & Knowledge</strong></summary>
+
+<br>
+
+**Languages**
+
+Java · C · Python · JavaScript
+
+**Backend**
+
+Spring Boot · REST APIs
+
+**Databases**
+
+PostgreSQL · SQL
+
+**Academic**
+
+Object-Oriented Programming · Procedural Programming · Data Structures · Operating Systems · Digital Systems · Database Management
+
+**Professional**
+
+SAP Support · Requirements Analysis · User Support · Systems
+
+**Other**
+
+Git · Blender · Game Development
+
+</details>
+
+---
+
+## 08 — SAVE POINT
+
+<div align="center">
+
+> **Every bug is information.
+> Every project is another level.**
+
+<br>
+
+`PLAYER: BRYAN`
+
+`CLASS: COMPUTER SCIENCE STUDENT`
+
+`CURRENT BUILD: SOFTWARE DEVELOPMENT`
+
+`LOCATION: UBERLÂNDIA, BRAZIL`
+
+</div>
 
 ---
 
 <div align="center">
 
-### 📍 Uberlândia, Minas Gerais, Brasil
+### Thanks for stopping by.
+
+**Check out the repositories below ↓**
 
 </div>
