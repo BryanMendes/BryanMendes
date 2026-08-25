@@ -2,66 +2,59 @@
 
 # BRYAN MENDES
 
-### SOFTWARE, CURIOSITY & A FEW BUGS ALONG THE WAY.
+### Software, curiosidade e uns bugs pelo caminho.
 
-**Ciência da Computação · TI · Desenvolvimento de Software**
+**Ciência da Computação · Estagiário de TI/SAP · Backend em construção**
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_AQUI_O_LINK_DO_SEU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coloque-seu-email-aqui@exemplo.com)
+
+<!-- ⚠️ Troque os dois links acima pelo seu LinkedIn e e-mail reais antes de publicar.
+     Sem isso o resto do perfil não serve de nada — é o primeiro clique que um recrutador vai tentar dar. -->
 
 <br><br>
 
-`JAVA`    `SPRING BOOT`    `POSTGRESQL`    `SQL`
+`JAVA`&nbsp;&nbsp;&nbsp;`SPRING BOOT`&nbsp;&nbsp;&nbsp;`POSTGRESQL`&nbsp;&nbsp;&nbsp;`SQL`
 
 </div>
 
----
-
-## 01 — NOW
-
-> **Learning by building.**
-
-Atualmente estudo **Ciência da Computação** e trabalho como estagiário de **TI, com atuação em SAP e análise de negócios**.
-
-No dia a dia, lido com problemas reais de sistemas: atendimento de usuários, acessos, transações SAP, análise de requisitos e comunicação entre quem precisa da solução e quem vai construí-la.
-
-Meu próximo passo é aprofundar essa experiência em **desenvolvimento de software**, especialmente no ecossistema **Java + Spring Boot + bancos de dados**.
-
-```text
-CURRENT QUEST
-────────────────────────────────────────────
-
-→ escrever código melhor
-→ entender sistemas por inteiro
-→ transformar requisitos em soluções
-→ construir projetos que resolvam problemas reais
-```
+<!-- 📸 Seu avatar do GitHub já aparece automaticamente ao lado deste README no seu perfil —
+     não precisa duplicar foto aqui dentro. Só capriche nele. -->
 
 ---
 
-## 02 — THE JOURNEY
+## 01 — AGORA
 
-Minha relação com tecnologia começou antes da faculdade.
+> **Aprendendo construindo — inclusive consertando o que já tá quebrado.**
+
+Sou estudante de **Ciência da Computação** e trabalho como estagiário de **TI, com atuação em suporte SAP e análise de negócios**, na Uberlândia Refrescos (Coca-Cola).
+
+No dia a dia, faço a ponte entre quem precisa de uma solução e quem vai construí-la: atendo chamados, libero transações SAP, cadastro usuários e levanto requisitos para novas transações e melhorias.
+
+Ou seja: antes de escrever uma linha de código, já pratico todo dia a parte que boa parte dos devs júnior só aprende depois de contratados — traduzir problema de negócio em requisito técnico.
+
+Meu próximo passo é aprofundar isso em **desenvolvimento de software**, no ecossistema **Java + Spring Boot + banco de dados**. Menos tutorial, mais construção.
+
+🎯 **Aberto a oportunidades de estágio em desenvolvimento backend.**
+
+---
+
+## 02 — A JORNADA
 
 ```text
 2019+
     │
     ├── 🎮 Técnico em Programação de Jogos Digitais
-    │       programação
-    │       bancos de dados
-    │       jogos 2D / 3D
-    │       Blender
+    │       lógica de programação · banco de dados
+    │       jogos 2D/3D · Blender
     │
     ▼
 🎓 Ciência da Computação — UFU
     │
-    ├── C
-    ├── Java / POO
-    ├── PostgreSQL
-    ├── Sistemas Operacionais
-    └── Engenharia de Software / Fundamentos
+    ├── C · Java / POO
+    └── PostgreSQL · Sistemas Operacionais
     │
     ▼
 💻 Empresa Júnior
@@ -69,200 +62,76 @@ Minha relação com tecnologia começou antes da faculdade.
     └── desenvolvimento de aplicações web
     │
     ▼
-🏢 TI / SAP
+🏢 TI / SAP — Uberlândia Refrescos (Coca-Cola)
     │
-    ├── suporte
-    ├── análise de requisitos
-    ├── usuários e acessos
-    └── interface entre negócio e desenvolvimento
+    ├── suporte · análise de requisitos
+    └── ponte entre negócio e desenvolvimento
     │
     ▼
-🚀 NEXT LEVEL
+🚀 PRÓXIMO NÍVEL
     │
     └── desenvolvimento de software
 ```
 
-> **Same player. New skill tree.**
+> **Mesmo player. Nova skill tree.**
 
 ---
 
-## 03 — WHAT I DO
+## 03 — O QUE EU FAÇO
 
-### 🧩 I understand the problem
+### 🧩 Eu entendo o problema
+Minha experiência atual me colocou em contato direto com usuários e processos de negócio. Isso significa aprender a perguntar **"o que realmente precisa ser resolvido?"** antes de **"qual código eu vou escrever?"**
 
-Minha experiência atual me colocou em contato direto com usuários e processos de negócio.
+### ⚙️ Eu construo a solução
+Meu foco técnico está migrando cada vez mais para desenvolvimento de software. Hoje estou aprofundando: **Java → Spring Boot → APIs → SQL → PostgreSQL**
 
-Isso significa aprender a perguntar:
-
-**“O que realmente precisa ser resolvido?”**
-
-antes de pensar:
-
-**“Qual código eu vou escrever?”**
-
-### ⚙️ I build the solution
-
-Meu foco técnico está migrando cada vez mais para desenvolvimento de software.
-
-Hoje estou aprofundando:
-
-**Java → Spring Boot → APIs → SQL → PostgreSQL → arquitetura**
-
-### 🔗 I connect the two sides
-
-Uma das experiências que mais quero levar para minha carreira é justamente essa capacidade de transitar entre:
+### 🔗 Eu conecto os dois lados
 
 ```text
-PROBLEMA
-   ↓
-REQUISITO
-   ↓
-SOLUÇÃO
-   ↓
-CÓDIGO
-   ↓
-RESULTADO
+PROBLEMA → REQUISITO → SOLUÇÃO → CÓDIGO → RESULTADO
 ```
+
+Essa é a experiência que mais quero levar pra minha carreira: transitar entre negócio e código sem perder nenhum dos dois lados.
 
 ---
 
 ## 04 — SKILL TREE
 
-### 🟢 CURRENT
+### 🟢 Uso e estou aprofundando
 
-| Area        | Technologies                           |
-| ----------- | -------------------------------------- |
-| Language    | Java                                   |
-| Backend     | Spring Boot                            |
-| Database    | PostgreSQL / SQL                       |
-| Programming | C / Java / Python                      |
-| Concepts    | OOP · Data Structures · OS · Databases |
-| Other       | Git · SAP · Requirements Analysis      |
+| Área        | Tecnologias                                        |
+| ----------- | --------------------------------------------------- |
+| Linguagens  | Java, C, Python                                      |
+| Backend     | Spring Boot                                          |
+| Banco       | PostgreSQL / SQL                                     |
+| Conceitos   | POO · Estrutura de Dados · Sistemas Operacionais     |
+| Outros      | Git · SAP · Análise de Requisitos                    |
 
-### 🔵 EXPLORING
+### 🔵 Explorando agora
 
 ```text
-Spring Boot
-REST APIs
-Testing
-Software Architecture
-Design Patterns
-Clean Code
-Docker
+REST APIs · Testes · Arquitetura de Software
+Design Patterns · Clean Code · Docker
 ```
 
-> Not collecting technologies.
-> **Building depth.**
+> Não estou colecionando tecnologia. Estou construindo profundidade.
 
 ---
 
 ## 05 — SIDE QUESTS
 
-Antes de pensar em sistemas corporativos, eu estava fazendo coisas como:
+Antes dos sistemas corporativos, eu já estava programando: criando jogos 2D, testando 3D, modelando no Blender.
 
-```text
-🎮 criar jogos 2D
-🎮 experimentar jogos 3D
-🧱 modelar no Blender
-🧠 aprender programação através de projetos
-```
-
-Essa parte da minha história ainda influencia a maneira como eu gosto de aprender:
-
-**experimentar → quebrar → entender → tentar novamente**
-
-É provavelmente por isso que projetos práticos sempre fizeram mais sentido para mim do que apenas acumular cursos.
-
----
-
-## 06 — CURRENT MISSION
-
-### 🎯 Become a better software engineer.
-
-Não estou tentando aprender tudo ao mesmo tempo.
-
-Meu foco atual é construir uma base sólida em:
-
-```text
-JAVA
-   ↓
-SPRING BOOT
-   ↓
-APIs REST
-   ↓
-DATABASES
-   ↓
-SOFTWARE DESIGN
-   ↓
-REAL PROJECTS
-```
-
-A intenção é simples:
-
-> **menos tutorial. mais construção.**
-
----
-
-## 07 — INVENTORY
-
-<details>
-<summary><strong>🎒 Technologies & Knowledge</strong></summary>
-
-<br>
-
-**Languages**
-
-Java · C · Python · JavaScript
-
-**Backend**
-
-Spring Boot · REST APIs
-
-**Databases**
-
-PostgreSQL · SQL
-
-**Academic**
-
-Object-Oriented Programming · Procedural Programming · Data Structures · Operating Systems · Digital Systems · Database Management
-
-**Professional**
-
-SAP Support · Requirements Analysis · User Support · Systems
-
-**Other**
-
-Git · Blender · Game Development
-
-</details>
-
----
-
-## 08 — SAVE POINT
-
-<div align="center">
-
-> **Every bug is information.
-> Every project is another level.**
-
-<br>
-
-`PLAYER: BRYAN`
-
-`CLASS: COMPUTER SCIENCE STUDENT`
-
-`CURRENT BUILD: SOFTWARE DEVELOPMENT`
-
-`LOCATION: UBERLÂNDIA, BRAZIL`
-
-</div>
+Isso ainda influencia como eu gosto de aprender: **experimentar → quebrar → entender → tentar de novo.** Por isso projeto prático sempre fez mais sentido pra mim do que só acumular curso.
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by.
+> **Cada bug é informação. Cada projeto é mais um nível.**
 
-**Check out the repositories below ↓**
+`PLAYER: BRYAN` &nbsp;·&nbsp; `CLASS: ESTUDANTE DE CIÊNCIA DA COMPUTAÇÃO` &nbsp;·&nbsp; `LOCATION: UBERLÂNDIA, BRASIL`
+
+### Dá uma olhada nos repositórios abaixo ↓
 
 </div>
