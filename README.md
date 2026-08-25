@@ -8,11 +8,9 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_AQUI_O_LINK_DO_SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coloque-seu-email-aqui@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-mendes-monteiro-6173542a8/)
+[![Email](https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryan.mendesmonteiro@gmail.com)
 
-<!-- ⚠️ Troque os dois links acima pelo seu LinkedIn e e-mail reais antes de publicar.
-     Sem isso o resto do perfil não serve de nada — é o primeiro clique que um recrutador vai tentar dar. -->
 
 <br><br>
 
@@ -20,8 +18,7 @@
 
 </div>
 
-<!-- 📸 Seu avatar do GitHub já aparece automaticamente ao lado deste README no seu perfil —
-     não precisa duplicar foto aqui dentro. Só capriche nele. -->
+
 
 ---
 
@@ -37,32 +34,34 @@ Ou seja: antes de escrever uma linha de código, já pratico todo dia a parte qu
 
 Meu próximo passo é aprofundar isso em **desenvolvimento de software**, no ecossistema **Java + Spring Boot + banco de dados**. Menos tutorial, mais construção.
 
-🎯 **Aberto a oportunidades de estágio em desenvolvimento backend.**
+ **Aberto a oportunidades de estágio em desenvolvimento backend.**
 
 ---
 
 ## 02 — A JORNADA
 
 ```text
-2019+
+2020+
+🎮 Técnico em Programação de Jogos Digitais
     │
-    ├── 🎮 Técnico em Programação de Jogos Digitais
-    │       lógica de programação · banco de dados
-    │       jogos 2D/3D · Blender
+    ├──lógica de programação · banco de dados
+    │       
+    │──jogos 2D/3D · Blender
     │
     ▼
+2024
 🎓 Ciência da Computação — UFU
     │
     ├── C · Java / POO
     └── PostgreSQL · Sistemas Operacionais
     │
     ▼
-💻 Empresa Júnior
+💻 Empresa Júnior ASCII
     │
     └── desenvolvimento de aplicações web
     │
     ▼
-🏢 TI / SAP — Uberlândia Refrescos (Coca-Cola)
+🏢 Estágio TI / SAP — Uberlândia Refrescos (Coca-Cola)
     │
     ├── suporte · análise de requisitos
     └── ponte entre negócio e desenvolvimento
