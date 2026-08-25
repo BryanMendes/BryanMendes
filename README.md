@@ -11,12 +11,6 @@
 <a href="https://www.linkedin.com/in/bryan-mendes-monteiro-6173542a8/">
   <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="SEU_LINK_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="SEU_LINK_GITHUB">
-  <img src="https://img.shields.io/badge/GitHub-Projetos-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 </div>
 
