@@ -8,7 +8,7 @@
   <em>Transformando problemas reais em soluções através da tecnologia.</em>
 </p>
 
-<a href="SEU_LINK_LINKEDIN">
+<a href="https://www.linkedin.com/in/bryan-mendes-monteiro-6173542a8/">
   <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="SEU_LINK_EMAIL">
