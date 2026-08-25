@@ -1,6 +1,6 @@
 <div align="center">
 
-# BRYAN MENDES
+# BRYAN MENDES MONTEIRO
 
 ### Software, curiosidade e uns bugs pelo caminho.
 
