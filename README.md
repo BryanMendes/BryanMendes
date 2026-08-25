@@ -51,7 +51,7 @@ Meu objetivo é transformar conhecimento teórico em **projetos práticos que de
 
 ---
 
-## 🛠️ Tecnologias e conhecimentos
+##  Tecnologias e conhecimentos
 
 ### Linguagens
 
